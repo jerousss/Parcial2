@@ -9,5 +9,5 @@ package core;
  * @author Jeronimo
  */
 public class suerte {
-    m
+    System.out.println("Mateo");
 }
